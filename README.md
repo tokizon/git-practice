@@ -1,2 +1,2 @@
-"# ���߂Ă�Git" 
+"hello git" 
 "add"
